@@ -1,29 +1,27 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-02-18 02:33:47 +0300
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+GitHub’s plans
+An overview of GitHub's pricing plans.
 
-Jekyll requires blog post files to be named according to the following format:
+In this article
+About GitHub's plans
+GitHub offers free and paid plans for storing and collaborating on code. Some plans are available only to personal accounts, while other plans are available only to organization and enterprise accounts. For more information about accounts, see Types of GitHub accounts.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+See costs and features for each plan at GitHub Pricing. For information on planned features and products, see the GitHub public roadmap.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+When you read GitHub Docs, make sure to select the version that reflects your plan. For more information, see About versions of GitHub Docs.
 
-Jekyll also offers powerful support for code snippets:
+GitHub Free for personal accounts
+With GitHub Free for personal accounts, you can work with unlimited collaborators on unlimited public repositories with a full feature set, and on unlimited private repositories with a limited feature set.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+With GitHub Free, your personal account includes:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+GitHub Community Support
+Dependabot alerts
+Deployment protection rules for public repositories
+Two-factor authentication enforcement
+500 MB GitHub Packages storage
+120 GitHub Codespaces core hours per month
+15 GB GitHub Codespaces storage per month
+GitHub Actions features:
+2,000 minutes per month
+Deployment protection rules for public repositories
+GitHub Pages in public repositories
